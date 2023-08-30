@@ -8,6 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbumsoo99&theme=highcontrast)
 
 
+## Blog Link🚀
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@show7441)
 
 <!--
