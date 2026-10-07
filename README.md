@@ -1,7 +1,7 @@
 ## Thank you for coming My Github 👋
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=show7441)](https://solved.ac/show7441)
+[포트폴리오](./김범수_포트폴리오_세로형_2412.pdf)
 
 <!--
 ## Blog Link🚀
